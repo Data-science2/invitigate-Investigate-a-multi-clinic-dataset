@@ -6,7 +6,7 @@ Investigate a multi-clinic dataset
 
 #Description
 it shows the factor affecting patient showing and not showing in the clinic including gender,age,neighboorhood,...etc
-
+#to be able to see the project in details you can find it by downloading HTML file
 #Files used
 KaggleV2-May-2016
 #Questions I would like to answer to show the reason
