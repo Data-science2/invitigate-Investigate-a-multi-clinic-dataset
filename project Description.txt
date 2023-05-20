@@ -1,0 +1,32 @@
+#Date created
+13/11/2022
+
+#Project Title
+Investigate a multi-clinic dataset
+
+#Description
+it shows the factor affecting patient showing and not showing in the clinic including gender,age,neighboorhood,...etc
+
+#Files used
+KaggleV2-May-2016
+#Questions I would like to answer to show the reason
+1-Does the data is clear and conveniant to work with?
+2-does the gender affect? 
+3-Does the age affect?
+4-Does the handcap and scholarship affect?
+5-Does the Text message sent for the appointment affect?
+6-Does the Neighboorhood affect?
+7-Does chronic Diseases affect?
+
+#Data wrangling
+I changed the name of 2 columns to be easier to use
+also, I removed the un-needed Data so I can work more easier
+I classified Data to be easier to use as show and no show,male and female
+
+#Final result
+neighboorhood has a great effect in number of patient and attendance percentage,
+The number of patient in neighboorhood is affected by ages and sometimes sms,
+in general we see the more the patient grow the less they attend the resirvation as from 0  to 3 years there is great attendance which show the great parent care and the old people show slightly low attendance may be because they can't and we can facilitate their coming or we can home appointment for severly ill patient and help to save their lives,
+but overall the age hasn't a great effect in attendance except for children and old people alittle bit,
+female has higher resirvation and attendance rate but the percentage with male is almost the same 
+limitation:No clear correlation between attendance and gender also chronic diseases doesnot affect it, handcapped patients and enrollment in welfare program also has little affect in enrollment
